@@ -3,7 +3,7 @@ calculator{
 		//addes datatypes for params
 		return (a+b);
 	}
-	subtract(a,b){
+	subtract(c, d, e){
 		return a-b;
 	}
 	multiply(a,b){
