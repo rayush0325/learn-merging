@@ -1,6 +1,7 @@
 calculator{
-	sum(a, b){
-		return a+b;
+	sum(int a, int b){
+		//addes datatypes for params
+		return (a+b);
 	}
 	subtract(a,b){
 		return a-b;
