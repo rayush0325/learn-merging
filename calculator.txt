@@ -6,6 +6,7 @@ calculator{
 		return a-b;
 	}
 	multiply(a,b){
+		//this is multiply feature
 		return a*b;
 	}
 }
