@@ -1,5 +1,5 @@
 calculator{
-	sum(int a, int b){
+	sum(int c, int c, int d){
 		//addes datatypes for params
 		return (a+b);
 	}
